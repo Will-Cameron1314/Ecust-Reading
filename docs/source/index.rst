@@ -1,17 +1,13 @@
-Welcome to Lumache's documentation!
+华东理工大学新生入学指南（2024奉贤篇）
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**基于市面上多篇迎新攻略进行汇总和更新而成**，在此感谢前人珠玉和各位修订人的付出如您对本文有进一步修订，请在下方留下您的名字。
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. 文档版本说明::
 
-.. note::
-
-   This project is under active development.
+   文档由@菜园小徐 整理发起发起，并完成制作。
+   2022版由@风吹吹 在2021版的基础上进行了修改。
+   2024版由@西风残钟 在2022版的基础上，进一步做了增删。
 
 Contents
 --------
