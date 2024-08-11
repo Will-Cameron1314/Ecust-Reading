@@ -17,7 +17,7 @@
    :maxdepth: 5
    :caption: Contents:
 
-   ECUST/0.md
+   ECUST/0-rst .rst
    ECUST/1
    ECUST/2
    ECUST/3
